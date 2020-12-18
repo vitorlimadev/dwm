@@ -1,13 +1,21 @@
+![dwm](/dwm.png)
+
+
 My build of dwm
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
+
+This custom version is patched with full-gaps and a command to take screenshots.
 
 
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
 You will also need FontAwesome Brands 400 and Regular 900 to see the icons.
+To take screenshots, install scrot and press print-screen.
+THe script takes your screenshots and puts them in ~/Pictures
 
+    sudo apt install install
 
 Installation
 ------------
